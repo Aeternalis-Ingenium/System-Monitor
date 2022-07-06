@@ -17,7 +17,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 1. Clone the project repository:
 
-    `git clone https://github.com/aeternalis-ingenium/system-monitor.git`
+    `git clone https://github.com/Aeternalis-Ingenium/System-Monitor.git`
 
 2. Build the project
 
@@ -29,4 +29,4 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Reference
 
-This project is a part of ["Udacity Nanodegree C++ Developer"](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+This project is the second capstone project in [Udacity C++ Developer Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).

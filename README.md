@@ -17,7 +17,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 1. Clone the project repository:
 
-    `git clone https://github.com/aeternalis-ingenium/System-Monitor.git`
+    `git clone https://github.com/aeternalis-ingenium/system-monitor.git`
 
 2. Build the project
 
